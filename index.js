@@ -16,7 +16,7 @@ function save() {
     // 3. Render the variable in the saveEl using innerText
     saveEl.innerText += countStr
     // NB: Make sure to not delete the existing content of the paragraph
-    console.log(count)
+    console.log(test)
 }
 
 
